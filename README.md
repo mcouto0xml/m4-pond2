@@ -79,5 +79,7 @@ void loop() {
 ```
 
 ## Vídeos do funcionamento
-[Vídeo de Funcionamento](videoIDE.mp4)
+Segue aqui o link do Drive que contém o vídeo de funcionamento do circuito
+
+[Link para o vídeo](https://drive.google.com/drive/folders/1qxUCZYTOiEYGjDRG-zC-myxSSspTYiRJ?usp=drive_link)
 
