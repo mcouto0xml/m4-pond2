@@ -25,7 +25,7 @@ Nessa secção será tratado sobre a experiência do aluno na montagem do circui
 A preparação do circuito foi feita com extrema cautela considerando a fragilidade dos componentes. O primeiro passo seria inserir 3 jumpers (1 pra cada led) macho-macho, com seus terminais respectivamente, 1 na protoboard e outro em um pino digital do Arduíno, dessa forma a protoboard estará carregada e conectada nas portas do microcontrolador. O próximo passo é adicionar 3 resistores de 1 kOhms na mesma linha de conexão que os jumpers anteriormente colocado. Resistores devidamentes colocados, agora é a hora de adicionar outros jumpers, como os resistores possuem 2 terminais, 1 estara´conectado na linha de conexão dos jumpers do arduíno e agora adicione outro jumper macho-fêmea na mesma linha de conexão que o outro terminal do resistor e o conecte no terminal maior do Led. Por último, mas não menos importante, conecte no terminal menor dos Leds na GND dos pinos analógicos do Arduíno.
 
 Foto da montagem:
-![Montagem completa do Circuito](fotoIDE.jpeg)
+![Montagem completa do Circuito](../fotoIDE.jpeg)
 
 
 
