@@ -83,3 +83,15 @@ Segue aqui o link do Drive que contém o vídeo de funcionamento do circuito
 
 [Link para o vídeo](https://drive.google.com/drive/folders/1qxUCZYTOiEYGjDRG-zC-myxSSspTYiRJ?usp=drive_link)
 
+
+## Avaliação por pares
+Segue abaixo a avaliação feita por Fernando Soares e Felipe Zillo:
+
+- Felipe Zillo
+Nota dada: 10/10
+Observação.: Conseguiu realizar a tarefa com código bem comentado e variáveis com nomes significativos
+
+- Fernando Soares
+Nota dada: 10/10
+Observação.: O Murilo atendeu a todos os requisitos do barema e conseguiu ir além com a montagem do farol na parte física. O seu semáforo acendia e desligava no tempo especificado, além de possuir uma ótima organização dos fios.
+
